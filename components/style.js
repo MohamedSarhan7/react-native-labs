@@ -20,11 +20,11 @@ export const myStyles = StyleSheet.create({
     },
     submitBtn: {
         marginTop: 10,
-        width: '40%',
+        width: '50%',
         backgroundColor: "#acd7e6",
         justifyContent: "center",
         alignItems: "center",
-        padding: 10,
+        padding: 20,
         borderRadius: 10,
     },
     text: {
